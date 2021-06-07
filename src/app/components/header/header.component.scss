@@ -1,0 +1,29 @@
+header {
+  position: absolute;
+  top: 0;
+  height: 5rem;
+  width: 100%;
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 1.3rem;
+}
+
+a {
+  color: black;
+}
+
+a:first-child {
+  padding: 0rem 0rem 0rem 1.5rem;
+}
+
+a:first-child {
+  padding: 0rem 1.5rem;
+}
+
+.icon {
+  height: 1.6rem;
+  width: 1.6rem;
+  cursor: pointer;
+}
